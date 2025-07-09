@@ -1,0 +1,6 @@
+# Reproducible environment for PneumoniaMNIST fine‑tuning
+numpy==1.26.4
+matplotlib==3.8.4
+tqdm==4.66.4
+scikit-learn==1.6.2   # keep <1.7 to satisfy sklearn‑compat
+tensorflow==2.18.0
