@@ -14,7 +14,7 @@ Download **`PneumoniaMNIST.npz`** from the official MedMNIST
 repository and upload it when prompted in Colab.
 
 ## 3 . Training script
-The Colab notebook (`train_pneumonia.ipynb`) trains for **100 epochs**
+The Colab notebook (`INCEPTION_V3.ipynb`) trains for **100 epochs**
 with data augmentation and a TQDM progress bar:
 
 ```python
